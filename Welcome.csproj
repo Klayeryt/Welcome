@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Platforms>AnyCPU;x86;x64</Platforms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="CounterStrikeSharp.API">
+      <HintPath>..\CounterStrikeSharp.API.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
