@@ -1,0 +1,6 @@
+{
+  "PluginName": "[Welcome] | ",
+  "Timer": 15,
+  "WelcomeText": " {LIGHTBLUE} Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS}",
+  "ConfigVersion": 1
+}
