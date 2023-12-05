@@ -31,7 +31,6 @@ Variables:
 - {SERVERNAME} - Hostname
 - {IP} - Server IP address
 - {PORT} - Server Port
-- {MAXPLAYERS} - The maximum number of players on the server
 - {PLAYERS} - The current number of players on the server
 
 Colors:
@@ -92,7 +91,6 @@ Config/Welcome/Welcome.json
 - {SERVERNAME} - Hostname
 - {IP} - Server IP address
 - {PORT} - Server Port
-- {MAXPLAYERS} - The maximum number of players on the server
 - {PLAYERS} - The current number of players on the server
 
 Цвета для чата:
