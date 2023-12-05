@@ -4,6 +4,9 @@ CS2 Plugin C#
 
 # EN - Language
 
+Create a folder for the plugin called Welcome
+plugins/Welcome
+
 Config/Welcome/Welcome.json
 
 ```
@@ -61,6 +64,8 @@ Colors:
 ------------------------------------------------------------------------------------------------------------
 
 # RU - Language
+Создайте папку для плагина с названием Welcome
+plugins/Welcome
 
 Config/Welcome/Welcome.json
 
