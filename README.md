@@ -27,6 +27,7 @@ Variables:
 - {MAP} - Now map
 - {TIME} - Time(hh:mm:ss)
 - {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
 - {SERVERNAME} - Hostname
 - {IP} - Server IP address
 - {PORT} - Server Port
@@ -87,6 +88,7 @@ Config/Welcome/Welcome.json
 - {MAP} - Now map
 - {TIME} - Time(hh:mm:ss)
 - {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
 - {SERVERNAME} - Hostname
 - {IP} - Server IP address
 - {PORT} - Server Port
