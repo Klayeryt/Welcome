@@ -15,7 +15,6 @@ Variables:
 - {PORT} - Server Port
 - {MAXPLAYERS} - The maximum number of players on the server
 - {PLAYERS} - The current number of players on the server
-- {PLAYERNAME} - The name of the player who just logged in
 
 Colors:
 {GREEN}
