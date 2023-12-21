@@ -13,7 +13,7 @@ using CounterStrikeSharp.API.Modules.Cvars;
 namespace Main;
 public class ConnectInfoConfig : BasePluginConfig
 {
-    [JsonPropertyName("PluginName")] public string Name { get; set; } = "[Welcome] | "; // Неа, тебе нельзя это трогать 0_0
+    [JsonPropertyName("PluginName")] public string Name { get; set; } = "[Welcome] | ";
     [JsonPropertyName("Timer")] public float Timer { get; set; } = 10.0f; // КД после захода у игрока
     [JsonPropertyName("WelcomeText")] public string WelcomeText { get; set; } = " {RED}---------------------------------{ENTER} {LIGHTBLUE} Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS} {ENTER}{RED}------------------------------ "; // Сюда вписывать текст, когда сгенерируется конфиг!
     [JsonPropertyName("disconnectAllText")] public string disconnectAllText { get; set; } = " {RED} {PLAYERNAME} disconnect to reason: {REASON} ";
