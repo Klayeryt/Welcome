@@ -24,6 +24,7 @@ Config/Welcome/Welcome.json
 ```
 
 Variables:
+
 "WelcomePlayerOneEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
@@ -118,6 +119,7 @@ Config/Welcome/Welcome.json
 ```
 
 Переменные:
+
 "WelcomePlayerOneEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
@@ -132,6 +134,7 @@ Config/Welcome/Welcome.json
 - {IP} - Server IP address
 - {PORT} - Server Port
 - {PLAYERS} - The current number of players on the server
+
 "WelcomePlayerAllEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
@@ -146,6 +149,7 @@ Config/Welcome/Welcome.json
 - {IP} - Server IP address
 - {PORT} - Server Port
 - {PLAYERS} - The current number of players on the server
+
 "DisconnectPlayerAllEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
