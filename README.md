@@ -2,6 +2,8 @@
 
 CS2 Plugin C#
 
+- Requires CounterStrikeSharp version 143
+
 # EN - Language
 
 Create a folder for the plugin called Welcome
