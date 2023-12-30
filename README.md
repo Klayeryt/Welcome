@@ -179,7 +179,7 @@ Config/Welcome/Welcome.json
 {BLUEGREY}
 {PURPLE}
 
-# Future plans:
+# Планируется в будущем:
 - ~~Сделать цвета для чата~~(Готово)
 - ~~Сделать больше переменных по типу: {MAXPLAYERS}/ {PLAYERNAME}~~(Готово)
 - Добавить плагин в дискорд
