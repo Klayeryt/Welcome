@@ -12,15 +12,47 @@ Config/Welcome/Welcome.json
 ```
 {
   "PluginName": "[Welcome] | ",
-  "Timer": 10,
-  "WelcomeText": " {RED}---------------------------------{ENTER} {LIGHTBLUE} Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS} {ENTER}{RED}------------------------------ ", // Greeting for the player
-  "disconnectAllText": " {RED} {PLAYERNAME} disconnect to reason: {REASON} ", // disconnect message for all
-  "WelcomeAllText": " {RED} {PLAYERNAME} connected to server", // Welcome message for all
+  "Timer": 10, // Welcome delay
+  "WelcomePlayerOneEnable": "true", // "true"|"1"/"false"|"0"
+  "WelcomePlayerAllEnable": "true", // "true"|"1"/"false"|"0"
+  "DisconnectPlayerAllEnable": "true", // "true"|"1"/"false"|"0"
+  "WelcomeText": " {RED}---------------------------------{ENTER} {LIGHTBLUE}Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS} {ENTER} {RED}Your IP: {IPUSER} {ENTER} {RED}------------------------------ ", // Greeting for one player
+  "disconnectAllText": " {RED} {PLAYERNAME} disconnect to reason: {REASON} ", // The message is all when the player is disconnected
+  "WelcomeAllText": " {RED} {PLAYERNAME} connected to server {ENTER} His IP address: {IPUSER} ", // Announcement of the player's entry
   "ConfigVersion": 1
 }
 ```
 
 Variables:
+"WelcomePlayerOneEnable":
+- {MAXPLAYERS} - View max players
+- {PLAYERNAME} - View player's name connecting to server;
+- {ENTER} - Next line
+- {STEAMID} - Player STEAMID
+- {IPUSER} - Player IP Address
+- {MAP} - Now map
+- {TIME} - Time(hh:mm:ss)
+- {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
+- {SERVERNAME} - Hostname
+- {IP} - Server IP address
+- {PORT} - Server Port
+- {PLAYERS} - The current number of players on the server
+"WelcomePlayerAllEnable":
+- {MAXPLAYERS} - View max players
+- {PLAYERNAME} - View player's name connecting to server;
+- {ENTER} - Next line
+- {STEAMID} - Player STEAMID
+- {IPUSER} - Player IP Address
+- {MAP} - Now map
+- {TIME} - Time(hh:mm:ss)
+- {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
+- {SERVERNAME} - Hostname
+- {IP} - Server IP address
+- {PORT} - Server Port
+- {PLAYERS} - The current number of players on the server
+"DisconnectPlayerAllEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
 - {ENTER} - Next line
@@ -72,15 +104,47 @@ Config/Welcome/Welcome.json
 ```
 {
   "PluginName": "[Welcome] | ",
-  "Timer": 10,
-  "WelcomeText": " {RED}---------------------------------{ENTER} {LIGHTBLUE} Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS} {ENTER}{RED}------------------------------ ", // Приветствие только для одного игрока(который зашёл на сервер).
-  "disconnectAllText": " {RED} {PLAYERNAME} disconnect to reason: {REASON} ", // Сообщение о отключении от сервера игрока({REASON} - Причина).
-  "WelcomeAllText": " {RED} {PLAYERNAME} connected to server", // Сообщение о подключении игрока на сервер(для всех)
+  "Timer": 10, // Задержка приветсвия для одного игрока
+  "WelcomePlayerOneEnable": "true", // "true"|"1"/"false"|"0"
+  "WelcomePlayerAllEnable": "true", // "true"|"1"/"false"|"0"
+  "DisconnectPlayerAllEnable": "true", // "true"|"1"/"false"|"0"
+  "WelcomeText": " {RED}---------------------------------{ENTER} {LIGHTBLUE}Welcome on server {PLAYERNAME} {ENTER} Now map: {MAP} {ENTER} Players online: {PLAYERS}/{MAXPLAYERS} {ENTER} {RED}Your IP: {IPUSER} {ENTER} {RED}------------------------------ ", // Приветсвие для одного игрока
+  "disconnectAllText": " {RED} {PLAYERNAME} disconnect to reason: {REASON} ", // Уведомление о отключении игрока для всех
+  "WelcomeAllText": " {RED} {PLAYERNAME} connected to server {ENTER} His IP address: {IPUSER} ", // Уведомление о заходе игрока для всех
   "ConfigVersion": 1
 }
 ```
 
 Переменные:
+"WelcomePlayerOneEnable":
+- {MAXPLAYERS} - View max players
+- {PLAYERNAME} - View player's name connecting to server;
+- {ENTER} - Next line
+- {STEAMID} - Player STEAMID
+- {IPUSER} - Player IP Address
+- {MAP} - Now map
+- {TIME} - Time(hh:mm:ss)
+- {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
+- {SERVERNAME} - Hostname
+- {IP} - Server IP address
+- {PORT} - Server Port
+- {PLAYERS} - The current number of players on the server
+"WelcomePlayerAllEnable":
+- {MAXPLAYERS} - View max players
+- {PLAYERNAME} - View player's name connecting to server;
+- {ENTER} - Next line
+- {STEAMID} - Player STEAMID
+- {IPUSER} - Player IP Address
+- {MAP} - Now map
+- {TIME} - Time(hh:mm:ss)
+- {DATE} - Date(dd.mm.yyyy)
+- {REASON} - the reason for logging out of the server
+- {SERVERNAME} - Hostname
+- {IP} - Server IP address
+- {PORT} - Server Port
+- {PLAYERS} - The current number of players on the server
+"DisconnectPlayerAllEnable":
 - {MAXPLAYERS} - View max players
 - {PLAYERNAME} - View player's name connecting to server;
 - {ENTER} - Next line
