@@ -1,0 +1,14 @@
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.csproj.AssemblyReference.cache
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfoInputs.cache
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.AssemblyInfo.cs
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.csproj.CoreCompileInputs.cache
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\bin\Debug\net7.0\Welcome.deps.json
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\bin\Debug\net7.0\Welcome.dll
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\bin\Debug\net7.0\Welcome.pdb
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\bin\Debug\net7.0\CounterStrikeSharp.API.dll
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.csproj.CopyComplete
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.dll
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\refint\Welcome.dll
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\Welcome.pdb
+D:\cs2server\steamapps\common\Counter-Strike Global Offensive\game\csgo\addons\counterstrikesharp\source\Welcome\obj\Debug\net7.0\ref\Welcome.dll
