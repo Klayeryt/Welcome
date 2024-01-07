@@ -2,7 +2,7 @@
 
 CS2 Plugin C#
 
-- Requires CounterStrikeSharp version 143
+- Requires CounterStrikeSharp version 142
 
 # EN - Language
 
