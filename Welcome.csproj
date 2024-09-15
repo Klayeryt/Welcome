@@ -14,13 +14,6 @@
   </ItemGroup>
   
   <ItemGroup>
-    <PackageReference Include="MaxMind.Db" Version="4.1.0" />
-    <PackageReference Include="MaxMind.GeoIP2" Version="5.2.0" />
     <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="8.0.7" />
   </ItemGroup>
-  <ItemGroup>
-  <None Update="GeoLite2-Country.mmdb">
-    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-  </None>
-</ItemGroup>
 </Project>
