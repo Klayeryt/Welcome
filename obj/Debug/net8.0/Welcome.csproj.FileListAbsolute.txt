@@ -27,4 +27,3 @@ F:\git\Welcome\bin\Debug\net8.0\Welcome.pdb
 F:\git\Welcome\bin\Debug\net8.0\CounterStrikeSharp.API.dll
 F:\git\Welcome\obj\Debug\net8.0\Welcome.csproj.Up2Date
 F:\git\Welcome\obj\Debug\net8.0\ref\Welcome.dll
-F:\git\Welcome\bin\Debug\net8.0\GeoLite2-Country.mmdb

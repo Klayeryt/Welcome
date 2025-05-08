@@ -50,14 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MaxMind.Db": {
-              "target": "Package",
-              "version": "[4.1.0, )"
-            },
-            "MaxMind.GeoIP2": {
-              "target": "Package",
-              "version": "[5.2.0, )"
-            },
             "Microsoft.Extensions.Localization.Abstractions": {
               "target": "Package",
               "version": "[8.0.7, )"

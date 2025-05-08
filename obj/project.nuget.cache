@@ -1,15 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PWtyCQuE4bo=",
+  "dgSpecHash": "40ihP9f1kG0=",
   "success": true,
   "projectFilePath": "F:\\git\\Welcome\\Welcome.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nikit\\.nuget\\packages\\maxmind.db\\4.1.0\\maxmind.db.4.1.0.nupkg.sha512",
-    "C:\\Users\\nikit\\.nuget\\packages\\maxmind.geoip2\\5.2.0\\maxmind.geoip2.5.2.0.nupkg.sha512",
-    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.7\\microsoft.extensions.localization.abstractions.8.0.7.nupkg.sha512",
-    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\nikit\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\nikit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.5\\microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\nikit\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.5\\microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
     "C:\\Users\\nikit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.5\\microsoft.windowsdesktop.app.ref.8.0.5.nupkg.sha512"
